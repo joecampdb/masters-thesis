@@ -1,0 +1,5 @@
+# Python virtual environment (local, not for version control)
+.venv/
+# Python caches
+__pycache__/
+*.pyc
